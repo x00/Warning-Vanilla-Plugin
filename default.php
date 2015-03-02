@@ -4,7 +4,7 @@
 $PluginInfo['Warning'] = array(
    'Name' => 'Warning',
    'Description' => 'Allows an admin/moderator to warn a user, with the warnings Mild, Medium, Severe, and then escalate to a ban. Shows the history of warnings.',
-   'Version' => '0.1.3b',
+   'Version' => '0.1.4b',
    'Author' => "Paul Thomas",
    'RequiredApplications' => array('Vanilla' => '2.1'),
    'MobileFriendly' => TRUE,
